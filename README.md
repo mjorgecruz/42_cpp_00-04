@@ -96,10 +96,4 @@ This repository contains a series of projects designed to introduce the fundamen
     ```bash
     ./program_name
     ```
-
-## Resources
-
-- [C++ Documentation](https://en.cppreference.com/w/)
-- [The C++ Programming Language by Bjarne Stroustrup](https://www.stroustrup.com/4th.html)
-- [Effective C++ by Scott Meyers](https://www.aristeia.com/books.html)
   
