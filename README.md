@@ -93,10 +93,9 @@ This repository contains a series of projects designed to introduce the fundamen
     make
     ```
 3. Run the compiled executable in the corresponding module directory:
-
-```bash
-./program_name
-```
+    ```bash
+    ./program_name
+    ```
 
 ## Resources
 
